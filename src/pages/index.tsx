@@ -25,6 +25,10 @@ export function getStaticProps() {
     {
       name: 'LandingPage React Avançado',
       url: 'https://landingpage-react-avancado.carlosberti.dev/'
+    },
+    {
+      name: 'My GitHub Profile',
+      url: 'https://github.com/carlosberti'
     }
   ]
 
