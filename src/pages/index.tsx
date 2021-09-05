@@ -7,6 +7,10 @@ export default function Home(props: MainProps) {
 export function getStaticProps() {
   const links: Link[] = [
     {
+      name: 'movIeau',
+      url: 'https://movieau.carlosberti.dev/'
+    },
+    {
       name: 'WonGames (github)',
       url: 'https://github.com/carlosberti/won-games-client'
     },
