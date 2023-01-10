@@ -33,7 +33,10 @@ export function getStaticProps() {
     {
       name: 'My GitHub Profile',
       url: 'https://github.com/carlosberti'
-    }
+    },
+    {
+      name: 'My Linkedin Profile',
+      url: 'https://www.linkedin.com/in/carlos-augusto-berti-a30536163/'
   ]
 
   return {
