@@ -37,6 +37,7 @@ export function getStaticProps() {
     {
       name: 'My Linkedin Profile',
       url: 'https://www.linkedin.com/in/carlos-augusto-berti-a30536163/'
+    }
   ]
 
   return {
